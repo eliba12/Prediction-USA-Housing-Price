@@ -1,2 +1,2 @@
 # Prediction-USA-Housing-Price
-b892e35ba094ccf79587c5c4cc79881233006e85
+Using Linear Regression Method to Predict USA housing Price
